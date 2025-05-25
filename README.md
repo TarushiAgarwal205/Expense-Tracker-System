@@ -1,2 +1,44 @@
 # Expense-Tracker-System
- This project is a Java-based desktop  application designed to help users track their  daily expenses. The app will feature a simple  and interactive GUI using Java Swing, allowing  users to record, view, edit, and delete  expenses easily
+# 💸 Expense Tracker – Java Swing GUI Project
+
+## 📌 Description  
+A Java-based desktop app to track daily expenses. Features:  
+- Add, view, edit, delete expense entries  
+- Store data using file handling (`expenses.dat`)  
+- Java Swing GUI  
+
+## 👩‍💻 Author & Team  
+**Author:** Tarushi Agarwal  
+**Team Members:** Srishti Singh, Vaishnavi Singh, Lakshika Tomar  
+
+## 🧰 Technologies Used  
+- Java 17+  
+- Java Swing (GUI)  
+- File I/O (Serialization)  
+
+## 🚀 How to Run
+
+### 📍 Using IntelliJ IDEA
+1. Open IntelliJ IDEA → New Project → Java Project  
+2. Name it `ExpenseTracker`  
+3. Create a folder named `src` in the project  
+4. Add these files into `src`:  
+   - `Expense.java`  
+   - `ExpenseDAO.java`  
+   - `ExpenseTrackerUI.java`  
+5. Run `ExpenseTrackerUI.java`  
+
+### 💻 Using Command Line  
+```bash
+javac Expense.java ExpenseDAO.java ExpenseTrackerUI.java
+java ExpenseTrackerUI
+**## Team Work Division**
+
+| Team Member      | Responsibilities                      |
+|------------------|-------------------------------------|
+| Tarushi Agarwal  | Project Lead, UI Design, Code Integration |
+| Srishti Singh    | Expense Data Model & File Handling  |
+| Vaishnavi Singh  | GUI Components, Event Handling       |
+| Lakshika Tomar   | Testing, Bug Fixing, Documentation   |
+
+
