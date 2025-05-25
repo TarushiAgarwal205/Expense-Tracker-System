@@ -3,7 +3,7 @@ import javax.swing.table.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.time.LocalDate;
-import java.util.*;
+
 
 public class ExpenseTrackerUI extends JFrame {
     private List<Expense> expenses = ExpenseDAO.loadExpenses();
