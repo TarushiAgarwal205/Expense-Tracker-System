@@ -16,6 +16,14 @@ A Java-based desktop app to track daily expenses. Features:
 - Java Swing (GUI)  
 - File I/O (Serialization)  
 
+
+**##🛠️ Features**
+
+- Add, edit, and delete expenses
+- Categorize expenses (Food, Clothing, Travel, etc.)
+- View all expenses in a table
+- Show total summary of expenses
+
 ## 🚀 How to Run
 
 ### 📍 Using IntelliJ IDEA
@@ -40,5 +48,4 @@ java ExpenseTrackerUI
 | Srishti Singh    | Expense Data Model & File Handling  |
 | Vaishnavi Singh  | GUI Components, Event Handling       |
 | Lakshika Tomar   | Testing, Bug Fixing, Documentation   |
-
 
