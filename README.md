@@ -17,7 +17,7 @@ A Java-based desktop app to track daily expenses. Features:
 - File I/O (Serialization)  
 
 
-**##🛠️ Features**
+##🛠️ Features
 
 - Add, edit, and delete expenses
 - Categorize expenses (Food, Clothing, Travel, etc.)
